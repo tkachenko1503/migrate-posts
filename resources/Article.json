@@ -1,0 +1,16 @@
+{
+  "results": [
+		{
+      "content": "Some article body",
+      "createdAt": "2016-10-15T20:08:26.090Z",
+      "objectId": "123qwe123",
+      "picture": "https://raw.githubusercontent.com/docker-library/docs/665526c3b12cedfd721234cedb61e8433f73b75a/clojure/logo.png",
+      "showDate": {
+        "__type": "Date",
+        "iso": "2016-08-15T00:00:00.000Z"
+      },
+      "title": "Some article title",
+      "updatedAt": "2016-10-15T20:08:26.090Z"
+  	}
+	]
+}
